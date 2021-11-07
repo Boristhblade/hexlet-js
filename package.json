@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-test-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boristhblade/hexlet-js.git"
+  },
+  "author": "Boris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boristhblade/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Boristhblade/hexlet-js#readme"
+}
